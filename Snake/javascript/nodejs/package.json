@@ -1,0 +1,17 @@
+{
+  "name": "snake-solver-client",
+  "version": "1.0.0",
+  "description": "This is a codenjoy snake solver client",
+  "main": "RunClient.js",
+  "dependencies": {
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {
+    "ws": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
